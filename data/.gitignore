@@ -1,0 +1,5 @@
+/processed/*
+/raw/*
+!/raw/.gitkeep
+!/processed/.gitkeep
+!/raw/raw_data.csv
