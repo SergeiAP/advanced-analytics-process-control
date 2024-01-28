@@ -2,7 +2,7 @@
 Let's imagine we have a system/equipment/process which is required to be managed based on data. The system has sensors which measures system parameters. Suppose, we can adjust each measured system parameter except `t5`, which could be observed and could be changed by other parameters indirectly.
 
 __Goal__:   
-How to control `t5` using other parameters (`t1-t4, t6-t13`). Which values should be set for such parameters to achive specific value of `t5`? 
+How to control `t5` using other parameters (`t1-t4, t6-t13`) and to make the model interpretable. Which values should be set for such parameters to achive specific value of `t5`? 
 
 __About data__:   
 Placed in `./data/raw/raw_data.csv`
