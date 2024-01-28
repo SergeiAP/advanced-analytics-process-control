@@ -10,7 +10,7 @@ Placed in `./data/raw/raw_data.csv`
 * rows - measurements
 
 # Info
-The main investigation file is ../notebooks/0.0._parshin_explore.ipynb. Detailed descriptions are omitted for some steps. The notebook is mostly aimed to show approaches and logic. Some part of code could be (required t be) refactored.
+The main investigation file is `./notebooks/0.0._parshin_explore.ipynb`. Detailed descriptions are omitted for some steps. The notebook is mostly aimed to show approaches and logic. Some part of code could be (required t be) refactored.
 
 # Contacts
 Parshin Sergei / @ParshinSA / Sergei.A.P@yandex.com
